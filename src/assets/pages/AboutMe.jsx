@@ -1,7 +1,8 @@
-export default function AboutMe() {
+function AboutMe() {
     return (
-      <div>
-        <h1>About Me Page</h1>
+      <div className="container pt-4">        
+        {/* NOT WORKING <img src="./public/img"></img>  */} 
+        <h2>About Me Page</h2>
         <p>
           During my time at Atlas Enterprises SD LLC, I've developed a deep appreciation for the tech industry. 
           Exploring new avenues has proven both exhilarating and fulfilling, fostering personal growth along the way. 
@@ -12,6 +13,7 @@ export default function AboutMe() {
           I'm prepared to celebrate both small victories and major milestones, cherishing every stride forward. 
           My commitment extends to delving deeper into the realm of technology, equipping myself with the requisite skills, knowledge, and resources to surmount challenges and fulfill both personal and company objectives.
         </p>
+        <p>
           Presently, I'm engaged in pair programming sessions, honing my expertise in EPiServer, WordPress, and ADA compliance. 
           Furthermore, I'm augmenting my proficiency through a comprehensive 24-week full-stack web development course, eager to broaden my skill set and contribute meaningfully to future endeavors.
         </p>
@@ -22,6 +24,7 @@ export default function AboutMe() {
           In these moments, I reconnect with the beauty of the natural world, finding inspiration and renewal amidst its splendor. 
         </p>
       </div>
-    );
+    )
   }
   
+  export default AboutMe;
