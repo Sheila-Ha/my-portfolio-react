@@ -18,3 +18,10 @@ module.exports = {
     ],
   },
 }
+
+
+// MIGHT NEED TO BE ADDED/CHANGED IN THE RULES
+// rules: {
+  // 'react-refresh/only-export-components': [
+  //   'warn',
+  //   'react/prop-types': 'off',
