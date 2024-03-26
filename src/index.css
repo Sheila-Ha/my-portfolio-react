@@ -5,9 +5,11 @@
 
 
 /* https://tailwindcss.com/docs/scroll-behavior */
-<html class="scroll-smooth">
-  /* font-family */
-</html>
+html {
+  scroll-behavior: smooth;
+    /* font-family */
+}
+
 
 
 

@@ -8,6 +8,8 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
-}
+  /* day 1   @ 1:54min */
+  plugins: [require('@tailwindcss/typography')],
+};
+
 
