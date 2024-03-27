@@ -2,7 +2,7 @@ import Button from './Button'
 
 function PortfolioCard({ children, link, image }) {
   return (
-    <div className="border-red-400 border-2 relative group rounded-lg h-[200px] w-[300px] z-0">
+    <div className="border--cyan-700 border-2 relative group rounded-lg h-[200px] w-[300px] z-0">
       <img
         src={image}
         alt="Project Image"
