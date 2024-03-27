@@ -38,18 +38,20 @@
 
 // Bringing in the required import from 'react-router-dom'
 import { Outlet } from 'react-router-dom';
-import Hero from './assets/components/Hero';
+import Header from './assets/components/Header';
 import Nav from './assets/components/NavTabs';
+import Hero from './assets/components/Hero';
 import Footer from './assets/components/Footer';
 
 function App() {
   // The Outlet component will conditionally swap between the different pages according to the URL
   return (
     <>
-      <Hero />
+      <Header />
       <Nav />
+      <Hero />
       <main className="mx-3">
-        <Outlet />
+          <Outlet />
       </main>
       <Footer />
     </>

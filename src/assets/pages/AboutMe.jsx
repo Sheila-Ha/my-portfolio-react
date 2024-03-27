@@ -1,8 +1,8 @@
 function AboutMe() {
     return (
-      <div className="container pt-4">        
-        {/* NOT WORKING <img src="./public/img"></img>  */} 
-        <h2>About Me Page</h2>
+      <div className="container pt-4">      
+        <h2>About Me</h2>
+        <img src="./public/images/sheilahanson.jpg" />
         <p>
           During my time at Atlas Enterprises SD LLC, I've developed a deep appreciation for the tech industry. 
           Exploring new avenues has proven both exhilarating and fulfilling, fostering personal growth along the way. 
