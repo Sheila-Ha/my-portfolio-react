@@ -1,19 +1,23 @@
 export default function Home() {
     return (
       <div>
-        <h2>Home Page</h2>
+        <h2>My Skills</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-          velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-          ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-          non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-          ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-          rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-          tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-          porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-          vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-          fames ac ante ipsum primis in faucibus.
+        Dynamic and goal-oriented Junior Web Developer equipped with a Full Stack Web Development Certificate from the University of Minnesota. 
+        Proficient in crafting and managing websites throughout the entire development lifecycle. Demonstrated capability to collaborate effectively within diverse teams, delivering innovative solutions that exceed expectations.
         </p>
+        <p>
+        Programming languages: JavaScript, CSS, HTML, jQuery, JSON, AJAX, Bootstrap, MySQL, MERN stack, MongoDB, Express.js, React.js, Node.js
+        </p>
+        <p>
+        Web Development: Responsive Designs, Cookies (local storage), Security/session storage, User Authentication, Writing tests, User Story/acceptance criteria
+        Iterative development, Minimum Viable Product(MVP), Heroku, Git, GitHub Pages, Render, Netlify
+        </p>
+        <p>
+        Project Management and Agile Methodologies: Kanban, Daily scrum, Agile Development
+        Software Proficiency: Microsoft Office (Word/Excel), Google Docs, Google Sheets, Adobe Acrobat, Content Management Systems including EPIServer
+        </p>
+        <div className="bg-[url('public/images/home-bottom-img.jpg')] bg-cover h-40"></div>
       </div>
     );
   }

@@ -14,17 +14,17 @@ function ContactMe() {
     setMessage('');
 
     alert(
-      'Message not sent, see my links in footer to contact me.'
+      'Sorry this is for requirements only, see my links in the footer to contact me.'
     );
   };
 
   return (
     <>
-      <h2 className="px-8 pb-4 font-bold text-center text-3x1 pt-14">
+      <h2 className="">
         Contact Me
         </h2>
     
-    <div className="flex flex-col items-center text-white bg-blue-600">
+    <div className="flex flex-col items-center text-white bg-blue-600/80">
       <form
       id="contact"
       className="flex flex-col items-center p-4 rounded-md"
