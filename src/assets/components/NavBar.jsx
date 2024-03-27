@@ -6,7 +6,7 @@ import { Link, useLocation } from 'react-router-dom';
 //import { link } from 'react-router-dom';
 //import NavBar from '/'
 
-function NavTabs() {
+function NavBar() {
   const currentPage = useLocation().pathname;
 
   return (
@@ -62,4 +62,4 @@ function NavTabs() {
   );
 }
 
-export default NavTabs;
+export default NavBar;

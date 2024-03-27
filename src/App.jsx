@@ -39,7 +39,7 @@
 // Bringing in the required import from 'react-router-dom'
 import { Outlet } from 'react-router-dom';
 import Header from './assets/components/Header';
-import Nav from './assets/components/NavTabs';
+import Nav from './assets/components/NavBar';
 import Hero from './assets/components/Hero';
 import Footer from './assets/components/Footer';
 
