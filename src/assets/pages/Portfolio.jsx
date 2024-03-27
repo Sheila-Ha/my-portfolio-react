@@ -40,18 +40,33 @@ function Portfolio() {
           >
           </PortfolioCard >
           <PortfolioCard 
-          link="https://github.com/Sheila-Ha/scheduler.git"
-          image="public/images/scheduler.png"
+          link="https://github.com/Sheila-Ha/Portfolio.git"
+          image="public/images/1stPortfolio.png"
           >
           </PortfolioCard >
           <PortfolioCard 
-          link="https://github.com/Sheila-Ha/scheduler.git"
-          image="public/images/scheduler.png"
+          link="https://github.com/Sheila-Ha/sql-tracker.git"
+          image="public/images/sql_tracker.png"
           >
           </PortfolioCard >
           <PortfolioCard 
           link="https://github.com/Sheila-Ha/Group4-Poll-Meet-Up.git"
           image="public/images/pollcreated.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/Social-Network-API.git"
+          image="public/images/SN_API.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/note-taker.git"
+          image="public/images/note_taker.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/my-portfolio-react.git"
+          image="public/images/Portfolio_home.png"
           >
           </PortfolioCard >
         </div>
