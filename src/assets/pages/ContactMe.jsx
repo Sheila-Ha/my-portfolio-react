@@ -24,7 +24,7 @@ function ContactMe() {
         Contact Me
         </h2>
     
-    <div className="flex flex-col items-center text-white bg-blue-600/80">
+    <div className="flex flex-col items-center text-white bg-slate-400/80">
       <form
       id="contact"
       className="flex flex-col items-center p-4 rounded-md"

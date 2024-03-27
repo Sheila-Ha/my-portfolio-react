@@ -7,10 +7,51 @@ function Portfolio() {
           className="flex flex-col items-center px-8 text-center pt-14"
           >
           <h2 className="pb-4 text-3xl font-bold">Recent Projects</h2>
+          <p className="pb-4 font-bold text-3x1">Click on image below to go to Github</p>
           <div className="flex flex-wrap justify-center gap-2 text-white">
           <PortfolioCard 
           link="https://github.com/Sheila-Ha/5-day-forecast.git/"
-          image="public/images/total-view-of-city-input.png"
+          image="public/images/weather.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/food-and-recipe/"
+          image="public/images/food_recipes.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/orm-ecom-back-end.git"
+          image="public/images/ORM.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/mvc-tech-blog.git"
+          image="public/images/MVC.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/code-quiz.git"
+          image="public/images/code_quiz.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/scheduler.git"
+          image="public/images/scheduler.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/scheduler.git"
+          image="public/images/scheduler.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/scheduler.git"
+          image="public/images/scheduler.png"
+          >
+          </PortfolioCard >
+          <PortfolioCard 
+          link="https://github.com/Sheila-Ha/Group4-Poll-Meet-Up.git"
+          image="public/images/pollcreated.png"
           >
           </PortfolioCard >
         </div>
