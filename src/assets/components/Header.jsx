@@ -1,12 +1,10 @@
 function Header() {
     return (
-        <div>
-            <header className="bg-gray-500">
-            </header>
+        <header className="px-8 py-2 bg-gray-500">
             <h1>
-                <a href="/">Sheila's Portfolio</a>
+                <a href="/" className="text-black">Sheila's Portfolio</a>
             </h1>
-        </div>
+        </header>
     );
 }
 

@@ -51,7 +51,7 @@ function App() {
       <Nav />
       <Hero />
       <main className="mx-3">
-        <div className="container pt-4">
+        <div className="container pt-4 pb-10">
           <Outlet />
           </div>
       </main>

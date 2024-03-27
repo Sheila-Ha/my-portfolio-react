@@ -17,7 +17,7 @@ export default function Home() {
         Project Management and Agile Methodologies: Kanban, Daily scrum, Agile Development
         Software Proficiency: Microsoft Office (Word/Excel), Google Docs, Google Sheets, Adobe Acrobat, Content Management Systems including EPIServer
         </p>
-        <div className="bg-[url('public/images/home-bottom-img.jpg')] bg-cover h-40"></div>
+        {/* <img src="images/home-bottom-img.jpg" alt="glasses on top of open laptop" width="100%" height="auto" /> */}
       </div>
     );
   }
