@@ -50,12 +50,14 @@ function App() {
       <Header />
       <Nav />
       <Hero />
-      <main className="mx-3">
-        <div className="container pt-4 pb-10">
-          <Outlet />
-          </div>
-      </main>
-      <Footer />
+      <div className='bg-slate-300'>
+        <main className="mx-3">
+          <div className="container pt-4 pb-10">
+            <Outlet />
+            </div>
+        </main>
+        <Footer />
+      </div>
     </>
   );
 }
