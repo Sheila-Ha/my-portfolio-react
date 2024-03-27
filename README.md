@@ -57,7 +57,7 @@ by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue
     THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio  
 
     WHEN I view the navigation titles  
-    THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted  
+    THEN I am presented with the titles About Me, Portfolio, Contact Me, and Resume, and the title corresponding to the current section is highlighted  
 
     WHEN I click on a navigation title  
     THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted  
@@ -71,7 +71,7 @@ by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue
     WHEN I am presented with the Portfolio section  
     THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository  
 
-    WHEN I am presented with the Contact section  
+    WHEN I am presented with the Contact Me section  
     THEN I see a contact form with fields for a name, an email address, and a message  
 
     WHEN I move my cursor out of one of the form fields without entering text  
@@ -122,6 +122,8 @@ by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue
 [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)  
 [SWC](https://swc.rs/)  
 [ChatGPT](https://openai.com/chatgpt)  
+[Medium](https://cortezd334.medium.com/add-a-pdf-to-your-react-app-in-3-easy-steps-4a1d2cbf0ec9)  
+
 
 ## Questions
 ![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)

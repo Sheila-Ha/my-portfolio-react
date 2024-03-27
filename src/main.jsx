@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import App from './App.jsx'
 import AboutMe from './assets/pages/AboutMe.jsx';
-import Contact from './assets/pages/Contact.jsx';
+import ContactMe from './assets/pages/ContactMe.jsx';
 import ErrorPage from './assets/pages/ErrorPage.jsx';
 import HomePage from './assets/pages/HomePage.jsx';
 import Portfolio from './assets/pages/Portfolio.jsx';
@@ -31,7 +31,7 @@ const router = createBrowserRouter([
       },
       {
         path: '/Contact',
-        element: <Contact />,
+        element: <ContactMe />,
       },
       {
         path: '/Portfolio',
