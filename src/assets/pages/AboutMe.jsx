@@ -1,8 +1,8 @@
 function AboutMe() {
     return (
-      <div className="container pt-4">      
+      <div>      
         <h2>About Me</h2>
-        <img src="./public/images/sheilahanson.jpg" />
+        <img className="float-left pb-2 pr-4" src="images/sheilahanson.jpg" alt="Sheila Hanson profile photo" />
         <p>
           During my time at Atlas Enterprises SD LLC, I've developed a deep appreciation for the tech industry. 
           Exploring new avenues has proven both exhilarating and fulfilling, fostering personal growth along the way. 

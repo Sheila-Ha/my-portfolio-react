@@ -1,7 +1,6 @@
 function Hero() {
     return (
-        <div>
-            <img src="public/images/hero_img.jpg"/>
+        <div className="bg-[url('/images/hero_img.jpg')] bg-cover h-40">
         </div>
     );
 }

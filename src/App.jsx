@@ -51,7 +51,9 @@ function App() {
       <Nav />
       <Hero />
       <main className="mx-3">
+        <div className="container pt-4">
           <Outlet />
+          </div>
       </main>
       <Footer />
     </>
