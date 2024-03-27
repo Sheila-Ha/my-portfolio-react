@@ -1,6 +1,6 @@
 # My-Portfolio-React <!-- omit from toc -->
 by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)  
-![alt text](<public/images/README.md images/logo.png>)
+
 ## Description <!-- omit from toc -->
   I am using [React](https://react.dev/), which is a [JavaScript](https://www.javascript.com/) based UI development library to create my personal portfolio and utilizing [Netlify](https://www.netlify.com/) for deployment.
 
@@ -95,8 +95,7 @@ by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue
 ## Features  
 - Tailwind  
   - plugin add, prose
-- pnpm  
-- Logo  
+- pnpm    
 -   
 ## Challenges  
 - Implimented Tailwind and used prose

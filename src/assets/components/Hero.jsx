@@ -1,7 +1,7 @@
 function Hero() {
     return (
         <div>
-            Hero goes here
+            <img src="public/images/hero_img.jpg"/>
         </div>
     );
 }
