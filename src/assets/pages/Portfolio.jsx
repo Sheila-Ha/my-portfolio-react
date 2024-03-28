@@ -3,11 +3,11 @@ import PortfolioCard from '../utils/PortfolioCard'
 function Portfolio() {
   return (
         <div
-          id="projects"
-          className="flex flex-col items-center px-8 text-center pt-14"
+        id="projects"
+        
           >
-          <h2 className="pb-4 text-3xl font-bold">Recent Projects</h2>
-          <p className="pb-4 font-bold text-3x1">Click on image below to go to Github</p>
+          <h2>Recent Projects</h2>
+          <p className="flex flex-wrap justify-center gap-2 pb-4 font-bold text-slate-800 text-3x1">Click on image below to go to Github</p>
           <div className="flex flex-wrap justify-center gap-2 text-white">
           <PortfolioCard 
           link="https://github.com/Sheila-Ha/5-day-forecast.git/"

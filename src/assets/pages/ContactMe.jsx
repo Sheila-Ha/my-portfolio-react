@@ -24,7 +24,7 @@ function ContactMe() {
         Contact Me
         </h2>
     
-    <div className="flex flex-col items-center text-white bg-slate-400/80">
+        <div className="flex flex-col items-center text-white bg-slate-400/80">
       <form
       id="contact"
       className="flex flex-col items-center p-4 rounded-md"
@@ -35,7 +35,7 @@ function ContactMe() {
               Name
             </label>
             <input
-              className="px-2 text-black rounded-md"
+              className="px-6 text-black rounded-md"
               type="text"
               name="name"
               id="name"
@@ -49,7 +49,7 @@ function ContactMe() {
               Email
             </label>
             <input
-              className="px-2 text-black rounded-md"
+              className="px-6 text-black rounded-md"
               type="email"
               name="email"
               id="email"
