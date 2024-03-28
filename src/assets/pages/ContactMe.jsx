@@ -14,7 +14,7 @@ function ContactMe() {
     setMessage('');
 
     alert(
-      'Sorry this is for requirements only, see my links in the footer to contact me.'
+      'This is currently not attached to a mailing service. Please use the provided links in the footer to contact me.'
     );
   };
 

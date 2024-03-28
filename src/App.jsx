@@ -15,7 +15,7 @@ function App() {
       {/* background color on entire page */}
       <div className='bg-slate-300'>
         <main className="mx-3">
-          <div className="container pt-4 pb-10">
+          <div className="container pt-20 pb-20">
             <Outlet />
             </div>
         </main>
