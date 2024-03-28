@@ -18,7 +18,7 @@ function AboutMe() {
           Furthermore, I'm augmenting my proficiency through a comprehensive 24-week full-stack web development course, eager to broaden my skill set and contribute meaningfully to future endeavors.
         </p>
         <p>
-          Beyond the confines of the professional realm, I find solace and joy in immersing myself in nature's embrace. 
+          Beyond the confines of the professional realm, I find solace and joy in immersing myself in nature with my family and dogs. 
           There's an inherent sense of wonder that accompanies exploring the great outdoors. 
           Whether it's hiking through lush forests, wandering along rugged trails, or simply basking in the tranquility of a secluded spot, nature offers endless opportunities for adventure and rejuvenation. 
           In these moments, I reconnect with the beauty of the natural world, finding inspiration and renewal amidst its splendor. 
