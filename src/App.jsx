@@ -9,13 +9,13 @@ function App() {
   // The Outlet component will conditionally swap between the different pages according to the URL
   return (
     <>
-      <Header />
-      <Nav />
-      <Hero />
       {/* background color on entire page */}
-      <div className='bg-slate-300'>
+      <div className="min-h-screen bg-slate-300">
+        <Header />
+        <Nav />
+        <Hero />
         <main className="mx-3">
-          <div className="container pt-20 pb-20">
+          <div className="container pt-20 pb-90">
             <Outlet />
             </div>
         </main>

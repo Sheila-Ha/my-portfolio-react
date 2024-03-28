@@ -19,29 +19,35 @@ by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue
 - [Badges of Technologies Used](#badges-of-technologies-used)
     
 
-## Installation
-  - Clone the repository to get your starter code  
-    - Install the source code  
-    - Run npm install  
-    - Update the values in  
-    - Run npm start to get the local server port3000  
-    - Navigate to localhost:3000  
-    - Click the install button  
-- pnpm  
-  - Enter the following into the powershell on your computer  
-    - iwr https://get.pnpm.io/install.ps1 -useb | iex  
-  - Enter the following into the terminal  (this needs Node.js to run)  
-    - npm install -g pnpm  
-- Tailwind  
-  - install dependencies  
+## Installation  
+-Start with the two links below:  
+[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)  
+[@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)   
+  - Vite 4.4.5 
+    - plus many other dependencies were installed, please see package.json file.  
+  - pnpm installation https://pnpm.io/installation    
+   
+   <!-- / - Enter the following into the powershell on your computer 
+      - iwr https://get.pnpm.io/install.ps1 -useb | iex  
+    - Enter the following into the terminal  (this needs Node.js to run)  
+     - npm install -g pnpm  
+    - Run pnpm install  
+  - Update the values in  
+  - Run npm start to get the local server port3000  
+  - Navigate to localhost:3000  
+  - Click the install button  -->
+
+- Tailwind  instalation https://tailwindcss.com/docs/guides/vite  
+  <!-- install dependencies  
     - pnpm install -D tailwindcss postcss autoprefixer  
   - Initialize tailwind config  
     - npx tailwindcss init -p  
-  - Add to tailwind.config.js file  
-    - add lines 3-6 & 11-12  
-    ![alt text](<public/images/README.md images/tailwind.config.jspng.png>)  
-  - Create a new file in src for index.css and add lines 2-4  
-    ![alt text](<public/images/README.md images/tailwind index.css.png>)
+  - Added to tailwind.config.js file  
+    - added lines 3-6 & 11-12  
+      ![alt text](<public/images/tailwind 3-6.png>)  
+  - Create new file in src for index.css  
+    - added lines 2-4  
+      ![alt text](<public/images/index.css 2-4.png>) -->  
   
 ### User Story  
 * AS AN employer looking for candidates with experience building single-page applications    
@@ -94,12 +100,11 @@ by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue
 - 
 ## Features  
 - Tailwind  
-  - plugin add, prose
 - pnpm    
--   
+- Bootstrap
+- Vite
 ## Challenges  
-- Implimented Tailwind and used prose
-- Used pnPM 
+- A learning curve with implimenting Tailwind for the first time
 
 
 ## Contributing
@@ -117,9 +122,7 @@ by Sheila Hanson ![Github license](https://img.shields.io/badge/license-MIT-blue
 [React](https://react.dev/)  
 [netlify](https://www.netlify.com/)  
 [Tailwind](https://tailwindcss.com/)  
-[@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)  
 [Babel](https://babeljs.io/)     
-[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)  
 [SWC](https://swc.rs/)  
 [ChatGPT](https://openai.com/chatgpt)  
 [Medium](https://cortezd334.medium.com/add-a-pdf-to-your-react-app-in-3-easy-steps-4a1d2cbf0ec9)  

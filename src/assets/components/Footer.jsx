@@ -11,7 +11,7 @@ function Footer() {
       <div className="container pt-4">
         <img src="images/home-bottom-img.jpg" alt="glasses on top of open laptop" width="100%" height="auto" />
       </div>
-      <div className="flex flex-col items-center py-8 mt-4">
+      <div className="flex flex-col items-center py-20 mt-20">
         <div className="flex gap-2 mb-2 text-4xl">
           
           <a
